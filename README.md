@@ -40,8 +40,6 @@ I'm building **[MMA STATUS](https://github.com/chocitagaming-art/mma-app)**, a l
 
 <img src="https://streak-stats.demolab.com?user=chocitagaming-art&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=chocitagaming-art&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="trophies" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=chocitagaming-art&color=ef4444&style=flat-square&label=Profile+views" alt="profile views" />
