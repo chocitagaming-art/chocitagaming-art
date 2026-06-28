@@ -35,12 +35,3 @@ The model reaches about 63% accuracy with a Brier score of 0.2266, trained on a 
 <a href="https://github.com/chocitagaming-art/mma-ingesta">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chocitagaming-art&repo=mma-ingesta&theme=github_dark&title_color=ef4444&icon_color=ef4444&hide_border=true" alt="mma-ingesta" />
 </a>
-
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chocitagaming-art&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocitagaming-art&layout=compact&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-
-</div>
