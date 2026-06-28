@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=42&pause=1200&color=EF4444&center=true&vCenter=true&width=640&height=72&lines=MMA+STATUS;UFC+stats+%2B+ML+fight+predictions;Learning+by+shipping+real+products" alt="MMA STATUS" />
+<img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=42&pause=1200&color=EF4444&center=true&vCenter=true&width=640&height=72&lines=MMA+STATUS;UFC+stats+%2B+ML+fight+predictions" alt="MMA STATUS" />
 
 </div>
 
 ### 👋 Hey
 
-I'm building **[MMA STATUS](https://github.com/chocitagaming-art/mma-app)**, a live UFC stats site with a machine-learning fight predictor. I'm learning full-stack development the fun way, by shipping a real product: Next.js and TypeScript on the front, Python and XGBoost on the back, all on real scraped data.
+I build and run **MMA STATUS**, a live UFC stats site with a machine-learning fight predictor that is up and serving predictions in production. The project lives across two repos:
+
+- **[mma-app](https://github.com/chocitagaming-art/mma-app)** — the web app in Next.js and TypeScript.
+- **[mma-ingesta](https://github.com/chocitagaming-art/mma-ingesta)** — the scrapers, the XGBoost model and the FastAPI service that powers the predictions.
+
+The model reaches about 63% accuracy with a Brier score of 0.2266, trained on a dataset of ~2,838 fighters and ~8,750 fights. It uses 20 features, all of them statistical: betting odds are never an input, so I can put the market line and the model side by side and compare them, which is uncommon in similar projects.
 
 🔴 **[Live demo](https://mma-app-ruby.vercel.app)** &nbsp;·&nbsp; 🇪🇸 Hablo español
 
@@ -37,11 +42,5 @@ I'm building **[MMA STATUS](https://github.com/chocitagaming-art/mma-app)**, a l
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=chocitagaming-art&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocitagaming-art&layout=compact&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com?user=chocitagaming-art&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="streak" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=chocitagaming-art&color=ef4444&style=flat-square&label=Profile+views" alt="profile views" />
 
 </div>
